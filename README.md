@@ -6,11 +6,10 @@ The primary objective of this project is to conduct a comprehensive vulnerabilit
 
 ### Skills Learned
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
+- Network Reconnaissance & Scanning
+- Vulnerability Assessment
+- Authentication Testing
+- Analysis & Reporting
 
 ### Tools Used
 
